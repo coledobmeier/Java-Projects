@@ -1,5 +1,8 @@
 # Java-Projects
-- A collection of my Java projects created in AP Computer Science A!
+- A collection of my Java projects created in AP Computer Science A! As of March 2025, all of the below projects are from [Project STEM](https://projectstem.org), however I am currently working on individual projects I will add soon.
+---
+## [Array Statistics](https://github.com/cole-dobmeier/Array-Statistics.git)
+- Array statistics is a project that is all about using Array, and array methods to manipulate data and store information about a student body. This project involves many methods such as averageGpa, getGpaRange, getLongestName, and a search method based off of GPA's. Attached is a runner file and a file that will store the statistics about the students. This project was a perfect introduction to arrays, and we are currently working on ArrayLists, and 2D Arrays.
 ---
 ## [String Shortener](https://github.com/cole-dobmeier/String-Shortener.git)
 - This project is one I struggled with at first but it was a crucial learning tool to understand the basics of string-concatenation. The program is meant to imitate the shortened messages you used to have to tweet when there was a much smaller character limit - SMS messages had a character limit of 160, and Twitter debuted with 140 characters.
